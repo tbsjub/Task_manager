@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 2px white;
+    font-size: 50px;
+}
+
+#theblock{
+    background-color: gray;
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    border-radius: 10%;
+    
+}
+
+#addBtn{
+    width: 60px;
+    height: 40px;
+    color: black;
+    background-color: lightcoral;
+    opacity: 100%;
+    margin-left: 90%;
+    position: relative;
+    
+}
+
+.todo-style {
+    width: 60%px;
+    height: 40px;
+    text-align: center;
+    margin: auto;
+    white-space: 10%;
+    font-size: 35px;
+    font-style: bold;
+    font-family: monospace;
+    color: antiquewhite;
+}
