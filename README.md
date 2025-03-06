@@ -20,16 +20,16 @@ This is a simple Task Manager web application which I made in order to learn Nod
 - Updating tasks
 - Deleting tasks
 
-  ## Getting Started
+## Getting Started
   Follow these steps to set up and run the Task Manager App on your local machine.
 
   ### Prerequisites
   - Node.js: Make sure Node.js is installed on your machine. You can download it from here.
   - MySQL: Install MySQL and set up a database. You can download it from here.
 
- ### Installation
- 1. Clone the repository.
- 2. Install Dependencies
- 3. Set Up the database.
- 4. Start the backend server
- 5. Open the frontend.
+   ### Installation
+   1. Clone the repository.
+   2. Install Dependencies
+   3. Set Up the database.
+   4. Start the backend server
+   5. Open the frontend.
