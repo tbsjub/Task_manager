@@ -8,8 +8,6 @@ CREATE TABLE IF NOT EXISTS tasks (
     title VARCHAR(255) NOT NULL,      -- Task title
     description TEXT,                 -- Task description
     completed BOOLEAN DEFAULT FALSE,  -- Task completion status
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP, -- Task creation time
-    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP -- Task update time
 );
 
 -- Optional: Add an index for faster lookups
